@@ -1,0 +1,37 @@
+.title {
+
+    color:rgb(255, 136, 0);
+    font-weight:bold;
+    font-size: 50px;
+
+}
+
+.button {
+    
+background-color:rgb(172, 252, 252);
+color: black;
+font-size: 25px;
+
+}
+
+.h2 {
+ color:blue;
+font-family: 'Courier New', Courier, monospace;
+text-align: left;
+}
+
+p{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list{
+    font-weight: 700;
+    color:rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.step{
+    color:rgb(0, 0, 0);
+
+}
